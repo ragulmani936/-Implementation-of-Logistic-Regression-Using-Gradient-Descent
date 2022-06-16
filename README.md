@@ -88,7 +88,7 @@ plt.show()
 ~~~
 ## Output:
 ## Prediction of Test Result:
-![pic 1]()
+![pic 1](https://github.com/ragulmani936/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/pic1.jpg)
 ## Confusion Matrix:
 ![pic 2]()
 ## Accuracy:
