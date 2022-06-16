@@ -94,7 +94,7 @@ plt.show()
 ## Accuracy:
 ![pic 3](https://github.com/ragulmani936/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/pic%203.jpg)
 ## Recalling Sensitivity and Specificity:
-![pic 4]()
+![pic 4](https://github.com/ragulmani936/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/pic%204.jpg)
 ## Visulaizing Training set Result:
 ![pic 5]()
 ## Result:
