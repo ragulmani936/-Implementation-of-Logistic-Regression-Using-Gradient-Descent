@@ -96,7 +96,7 @@ plt.show()
 ## Recalling Sensitivity and Specificity:
 ![pic 4](https://github.com/ragulmani936/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/pic%204.jpg)
 ## Visulaizing Training set Result:
-![pic 5]()
+![pic 5](https://github.com/ragulmani936/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/pic%205.png)
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
 
