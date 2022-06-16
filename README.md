@@ -92,7 +92,7 @@ plt.show()
 ## Confusion Matrix:
 ![pic 2](https://github.com/ragulmani936/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/pic%202.jpg)
 ## Accuracy:
-![pic 3]()
+![pic 3](https://github.com/ragulmani936/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/blob/main/pic%203.jpg)
 ## Recalling Sensitivity and Specificity:
 ![pic 4]()
 ## Visulaizing Training set Result:
